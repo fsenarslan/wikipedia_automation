@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c210319-9d21-4778-8f44-0addd69b392d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VYVSz4YgX4X4xq1Z7a8fq7vM4j" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.OlimpicTests3.test3">
+    <configuration name="OlimpicTests1.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wikipedia_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wikipedia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.wikipedia.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.wikipedia.tests.OlimpicTests1" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlimpicTests3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wikipedia_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wikipedia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.wikipedia.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.wikipedia.tests.OlimpicTests3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlimpicTests3.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wikipedia_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wikipedia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.wikipedia.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.wikipedia.tests.OlimpicTests3" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlimpicTests4.Test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wikipedia_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wikipedia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.wikipedia.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.wikipedia.tests.OlimpicTests4" />
+      <option name="METHOD_NAME" value="Test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OlimpicTests5.Test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wikipedia_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wikipedia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.wikipedia.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.wikipedia.tests.OlimpicTests5" />
+      <option name="METHOD_NAME" value="Test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OlimpicTests3.test3" />
+        <item itemvalue="TestNG.OlimpicTests4.Test4" />
+        <item itemvalue="TestNG.OlimpicTests5.Test5" />
+        <item itemvalue="TestNG.OlimpicTests1.test1" />
+        <item itemvalue="TestNG.OlimpicTests3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c210319-9d21-4778-8f44-0addd69b392d" name="Default Changelist" comment="" />
+      <created>1577430018742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577430018742</updated>
+    </task>
+    <servers />
+  </component>
+</project>
