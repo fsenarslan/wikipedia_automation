@@ -14,22 +14,22 @@ public class OlimpicTests3 extends TestBase {
 
         System.out.println(getCountrySilverMedals());
 
-//        Map<String, String> expected = new LinkedHashMap<>();
-//        expected.put("United States", "37");
-//        expected.put("Great Britain", "23");
-//        expected.put("China", "18");
-//        expected.put("Russia", "17");
-//        expected.put("Germany", "10");
-//        expected.put("Japan", "8");
-//        expected.put("France", "18");
-//        expected.put("South Korea", "3");
-//        expected.put("Italy", "12");
-//        expected.put("Australia", "11");
-//
-//        Assert.assertEquals(expected, getCountrySilverMedals());
+        Map<String, String> expected = new LinkedHashMap<>();
+        expected.put("United States", "37");
+        expected.put("Great Britain", "23");
+        expected.put("China", "18");
+        expected.put("Russia", "17");
+        expected.put("Germany", "10");
+        expected.put("Japan", "8");
+        expected.put("France", "18");
+        expected.put("South Korea", "3");
+        expected.put("Italy", "12");
+        expected.put("Australia", "11");
+
+        Assert.assertEquals(expected.toString(), getCountrySilverMedals().toString());
 
     }
-        public Map<String, Integer> getCountrySilverMedals () {
+        public Map<String,Integer> getCountrySilverMedals () {
 
             List<WebElement> countryNames = Driver.get().findElements(By.cssSelector("[class*='plainrowheaders'] th > a"));
             List<WebElement> rows = Driver.get().findElements(By.cssSelector("[class*='plainrowheaders']>tbody>tr>td:nth-of-type(3)"));

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c210319-9d21-4778-8f44-0addd69b392d" name="Default Changelist" comment="" />
+    <list default="true" id="0c210319-9d21-4778-8f44-0addd69b392d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/wikipedia/tests/OlimpicTests3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/wikipedia/tests/OlimpicTests3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/wikipedia/tests/OlimpicTests5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/wikipedia/tests/OlimpicTests5.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VYVSz4YgX4X4xq1Z7a8fq7vM4j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -38,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.OlimpicTests3.test3">
+  <component name="RunManager" selected="TestNG.OlimpicTests4.Test4">
     <configuration name="OlimpicTests1.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="wikipedia_automation" />
       <extension name="coverage">
@@ -130,9 +138,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.OlimpicTests3.test3" />
         <item itemvalue="TestNG.OlimpicTests4.Test4" />
         <item itemvalue="TestNG.OlimpicTests5.Test5" />
+        <item itemvalue="TestNG.OlimpicTests3.test3" />
         <item itemvalue="TestNG.OlimpicTests1.test1" />
         <item itemvalue="TestNG.OlimpicTests3" />
       </list>
@@ -150,5 +158,18 @@
       <updated>1577430018742</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

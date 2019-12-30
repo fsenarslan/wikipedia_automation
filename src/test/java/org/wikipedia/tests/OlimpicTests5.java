@@ -2,6 +2,7 @@ package org.wikipedia.tests;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.wikipedia.utilities.Driver;
 
@@ -13,7 +14,7 @@ public class OlimpicTests5 extends TestBase{
     public void Test5(){
 
         System.out.println(countryRowAndColumn());
-
+        Assert.assertEquals("[Italy, Australia]",countryRowAndColumn().toString());
     }
 
 
